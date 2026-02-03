@@ -3,7 +3,10 @@ title: "UNIFI-MILP-H2-design"
 message: "If you use this software, please cite the following papers."
 type: software
 authors:
-  - company-names: "University of Florence, Italy"
+    - family-names: "Superchi"
+      given-names: "Francesco"
+    - family-names: "Bianchini"
+      given-names: "Alessandro"
     
 
 references:
@@ -11,9 +14,9 @@ references:
     title: "Development of a MILP optimization framework to design grid-connected microgrids: enhancing operational synergy among wind, solar, batteries, and hydrogen storage"
     authors:
       - family-names: "Superchi"
-        given-names: "F."
+        given-names: "Francesco"
       - family-names: "Bianchini"
-        given-names: "A."
+        given-names: "Alessandro"
     journal: "Renewable Energy"
     volume: 256
     pages: 124470
