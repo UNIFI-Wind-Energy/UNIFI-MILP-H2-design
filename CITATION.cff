@@ -1,0 +1,44 @@
+references:
+  - title: >-
+      Development of a MILP optimization framework to design grid-connected microgrids: enhancing operational synergy among wind, solar, batteries, and hydrogen storage
+    abstract: |
+      By integrating Renewable Energy Sources (RES) and storage devices, Hybrid Energy Systems (HESs) represent a promising solution for decarbonizing isolated and remote communities. Proper sizing and management of systems comprising a variety of components requires, however, more advanced methods than conventional energy systems. This study proposes a novel Mixed Integer Linear Programming (MILP) framework for the simultaneous design of a grid-connected HES supported by renewable generators. Unlike the standard design approach based on parametric dispatch strategies, this framework simultaneously optimizes the energy management of each system configuration under analysis. The novel approach is applied to size a combination of Li-Ion batteries, an alkaline electrolyzer, H2 tanks, and a PEM fuel cell to maximize the NPV of a system including a wind turbine and a photovoltaic field. Managing thousands of variables at the same time, the framework simultaneously optimizes how all components are used to fulfill the load and balance the input/export of power within a limited electrical network. Results show that the combination of BESS and H2 can provide for both the need for short- and long-term energy storage, and that the MILP optimization can effectively allocate the energy flows and produce 558 k€ of revenues per year, 15.5 % of the initial investment cost of 3.6 M€. The investment cost of the system is recovered in six years and presents an NPV of 5.51 M€ after 20 years. Results from the proposed method are also compared to common approaches based on rule-based parametric dispatch strategies, demonstrating the superiority of MILP for the design and management of complex HESs.
+    type: journalArticle
+    database: ScienceDirect
+    date-accessed: 2026-02-03T09:36:02Z
+    issn: 0960-1481
+    journal: Renewable Energy
+    pages: 124470
+    volume: 256
+    url: https://www.sciencedirect.com/science/article/pii/S0960148125021342
+    keywords: 
+      - Batteries
+      - Green hydrogen
+      - Hybrid energy systems
+      - MILP
+      - Optimization
+      - Renewables
+    authors: 
+      - family-names: Superchi
+        given-names: Francesco
+      - family-names: Bianchini
+        given-names: Alessandro
+    editors: 
+      - family-names: Superchi
+        given-names: Francesco
+      - family-names: Bianchini
+        given-names: Alessandro
+    recipients: 
+      - family-names: Superchi
+        given-names: Francesco
+      - family-names: Bianchini
+        given-names: Alessandro
+    translators: 
+      - family-names: Superchi
+        given-names: Francesco
+      - family-names: Bianchini
+        given-names: Alessandro
+    date-published: 2026-01-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/j.renene.2025.124470
