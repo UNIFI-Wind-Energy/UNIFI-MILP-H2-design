@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "UNIFI-MILP-H2-design"
+message: "If you use this software, please cite the following papers."
+type: software
+authors:
+  - company-names: "University of Florence, Italy"
+    
+
+references:
+  - type: article
+    title: "Development of a MILP optimization framework to design grid-connected microgrids: enhancing operational synergy among wind, solar, batteries, and hydrogen storage"
+    authors:
+      - family-names: "Superchi"
+        given-names: "F."
+      - family-names: "Bianchini"
+        given-names: "A."
+    journal: "Renewable Energy"
+    volume: 256
+    pages: 124470
+    year: 2026
+    doi: "10.1016/j.renene.2025.124470"
+
+  - type: article
+    title: "Market analysis results implemented in this code"
+    authors:
+      - family-names: "Superchi"
+        given-names: "F."
+    journal: "Renewable Energy"
+    volume: 245
+    pages: 122813
+    year: 2025
+    doi: "10.1016/j.renene.2025.122813"
